@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**mathslove/mathslove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>I'm sophomore computer science student in ITMO University.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔A little bit more about me...  
+
+```cpp
+struct Me {
+    std::string name = "Mikhail";
+    std::string university = "ITMO University, Computer Science";
+    int year = 2;
+    std::string skills[] = ["Python", "C/C++", "Java", "bash", "powershell"];
+};
+```
+
+### Some Statistic
+<p align=left> <img src=https://komarev.com/ghpvc/?username=mathslove alt=mathslove /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mathslove&show_icons=true&include_all_commits=true)](https://github.com/mathslove/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathslove&layout=compact&langs_count=10)](https://github.com/mathslove/github-readme-stats)
