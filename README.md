@@ -1,14 +1,14 @@
 ### Hi 👋
 
-<p align='center'>I'm sophomore computer science student in ITMO University.</p>
+<p align='left'>I'm sophomore computer science student in ITMO University.</p>
 
 
 ### 🤔A little bit more about me...  
 
 ```cpp
 struct Me {
-    std::string name = "Mikhail";
-    std::string university = "ITMO University, Computer Science";
+    string name = "Mikhail";
+    string university = "ITMO University, Computer Science";
     int year = 2;
     std::string skills[] = ["Python", "C/C++", "Java", "bash", "powershell"];
 };
