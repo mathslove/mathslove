@@ -7,10 +7,10 @@
 
 ```cpp
 struct Me {
-    string name = "Mikhail";
-    string university = "ITMO University, Computer Science";
+    std::string name = "Mikhail";
+    std::string university = "ITMO University, Computer Science";
     int year = 2;
-    std::string skills[] = ["Python", "C/C++", "Java", "bash", "powershell"];
+    std::string skills[4] {"Python", "C/C++", "Java", "bash"};
 };
 ```
 
