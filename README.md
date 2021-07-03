@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p align='left'>I'm sophomore computer science student in ITMO University.</p>
+<p align='left'>I'm junior computer science student in ITMO University.</p>
 
 
 ### 🤔A little bit more about me...  
@@ -9,7 +9,7 @@
 struct Me {
     std::string name = "Mikhail";
     std::string university = "ITMO University, Computer Science";
-    int year = 2;
+    int year = 3;
     std::string skills[4] {"Python", "C/C++", "Java", "bash"};
 };
 ```
