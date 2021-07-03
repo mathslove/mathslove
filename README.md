@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p align='left'>I'm junior computer science student in ITMO University.</p>
+<p align='left'>I'm computer science junior in <a href="https://en.wikipedia.org/wiki/ITMO_University">ITMO</a> University.</p>
 
 
 ### 🤔A little bit more about me...  
